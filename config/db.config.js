@@ -1,6 +1,6 @@
 module.exports = {
   host:'localhost',
   user:'root',
-  password:'anugrah17',
+  password:'password',
   database:'restful_api_bezcode'
 };
